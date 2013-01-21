@@ -1,2 +1,3 @@
 PhoneGapCalc
 ============
+TESTING GITHUB and PHONEGAP FOR THE FIRST TIME :D
